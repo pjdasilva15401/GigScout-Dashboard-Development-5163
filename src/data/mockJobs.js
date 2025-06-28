@@ -1,0 +1,110 @@
+export const mockJobs = [
+  {
+    id: 1,
+    title: "TikTok Content Creator for Tech Startup",
+    company: "InnovateTech",
+    rate: "$85/hour",
+    location: "Remote",
+    postedDate: "2 hours ago",
+    matchScore: 9,
+    description: "Create engaging TikTok content for our B2B SaaS platform. Need someone who understands tech trends and can make complex topics fun and accessible...",
+    type: "contract",
+    skills: ["TikTok", "Video Editing", "B2B Marketing"]
+  },
+  {
+    id: 2,
+    title: "Instagram Marketing Manager",
+    company: "Fashion Forward Co.",
+    rate: "$3,500/month",
+    location: "New York, NY",
+    postedDate: "5 hours ago",
+    matchScore: 8,
+    description: "Manage our Instagram presence for a growing fashion brand. Responsibilities include content planning, influencer outreach, and community management...",
+    type: "full-time",
+    skills: ["Instagram", "Fashion Marketing", "Influencer Relations"]
+  },
+  {
+    id: 3,
+    title: "Social Media Strategy Consultant",
+    company: "Local Restaurant Group",
+    rate: "$2,000 project",
+    location: "Remote",
+    postedDate: "1 day ago",
+    matchScore: 7,
+    description: "Develop a comprehensive social media strategy for our 5 restaurant locations. Focus on local engagement and food photography best practices...",
+    type: "project",
+    skills: ["Strategy", "Local Marketing", "Food Photography"]
+  },
+  {
+    id: 4,
+    title: "YouTube Content Manager",
+    company: "EduLearn Online",
+    rate: "$65/hour",
+    location: "Remote",
+    postedDate: "3 hours ago",
+    matchScore: 8,
+    description: "Manage YouTube channel for online education platform. Create thumbnails, optimize titles, and develop content calendars for educational content...",
+    type: "contract",
+    skills: ["YouTube", "Education", "Content Planning"]
+  },
+  {
+    id: 5,
+    title: "Paid Social Advertising Specialist",
+    company: "GrowthCorp",
+    rate: "$95/hour",
+    location: "San Francisco, CA",
+    postedDate: "6 hours ago",
+    matchScore: 9,
+    description: "Manage Facebook and Instagram ad campaigns for multiple clients. Must have experience with e-commerce and lead generation campaigns...",
+    type: "contract",
+    skills: ["Facebook Ads", "Instagram Ads", "E-commerce"]
+  },
+  {
+    id: 6,
+    title: "Community Manager - Gaming Brand",
+    company: "PixelPlay Studios",
+    rate: "$4,200/month",
+    location: "Remote",
+    postedDate: "4 hours ago",
+    matchScore: 6,
+    description: "Build and nurture our gaming community across Discord, Twitter, and Reddit. Engage with players and create excitement around new releases...",
+    type: "full-time",
+    skills: ["Community Management", "Gaming", "Discord"]
+  },
+  {
+    id: 7,
+    title: "LinkedIn B2B Content Creator",
+    company: "ProServices LLC",
+    rate: "$1,500 project",
+    location: "Remote",
+    postedDate: "8 hours ago",
+    matchScore: 7,
+    description: "Create professional LinkedIn content for our B2B consulting firm. Need someone who understands professional services marketing...",
+    type: "project",
+    skills: ["LinkedIn", "B2B", "Professional Services"]
+  },
+  {
+    id: 8,
+    title: "Multi-Platform Social Media Manager",
+    company: "Wellness Brand Co.",
+    rate: "$75/hour",
+    location: "Los Angeles, CA",
+    postedDate: "12 hours ago",
+    matchScore: 8,
+    description: "Manage social presence across Instagram, TikTok, and Pinterest for wellness and lifestyle brand. Focus on authentic, health-focused content...",
+    type: "contract",
+    skills: ["Multi-Platform", "Wellness", "Lifestyle"]
+  },
+  {
+    id: 9,
+    title: "Social Media Analytics Specialist",
+    company: "DataDriven Marketing",
+    rate: "$80/hour",
+    location: "Remote",
+    postedDate: "1 day ago",
+    matchScore: 6,
+    description: "Analyze social media performance across multiple platforms and create detailed reports for clients. Advanced Excel and analytics tools required...",
+    type: "contract",
+    skills: ["Analytics", "Reporting", "Data Analysis"]
+  }
+]
